@@ -1,3 +1,4 @@
+#the original problem can be found here: https://projecteuler.net/problem=2
 def fibonacci(lim):
     a, b = 0, 1
     sequence = []
